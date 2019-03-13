@@ -1,0 +1,20 @@
+{
+  "name": "aztecmun2019",
+  "version": "1.0.0",
+  "description": "GUI para el uso dentro del modelo de aztecmun 2019",
+  "main": "main.js",
+  "scripts": {
+    "test": ".electron .",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitte-mondragon/GUI-Aztecmun2019.git"
+  },
+  "author": "Lorena Mondragón y Bruno Vitte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitte-mondragon/GUI-Aztecmun2019/issues"
+  },
+  "homepage": "https://github.com/vitte-mondragon/GUI-Aztecmun2019#readme"
+}
